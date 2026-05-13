@@ -1,0 +1,1 @@
+import"./teleport-details-p2_BenrQ.js";
